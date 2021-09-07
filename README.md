@@ -1,7 +1,7 @@
 # testnet-ki-rizon-Ibc
 
 In this tutorial, I will briefly describe the process of creating a relayer between two cosmos networks using an example
-Reason and Kichain, which are on different servers. 
+Rizon and Kichain, which are on different servers. 
 
 ## 1. Сheck whether it is possible to conduct cross transactions at the Rizon node:
 ```
